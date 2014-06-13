@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-talk
 Version:	1.1
-Release:	6
+Release:	7
 Summary:	A LaTeX class for presentations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/talk
